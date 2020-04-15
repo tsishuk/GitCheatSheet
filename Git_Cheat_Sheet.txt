@@ -1,0 +1,4 @@
+# Шпаргалка по основным командам Git
+git remote add origin https://github.com/... (поменять на путь к своему гит репозиторию)
+git pull --rebase origin master
+git push origin master
